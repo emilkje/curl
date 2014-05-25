@@ -1,0 +1,20 @@
+{
+    "name": "emil/restful",
+    "description": "A RESTful client powered by PHP and Curl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emil Kjelsrud",
+            "email": "emilkje@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Emil\\Restful\\": "src/Restful"
+        }
+    }
+}

@@ -1,5 +1,7 @@
 <?php
 
+namespace Emil\Restful\Support;
+
 /**
  * A basic CURL wrapper
  *

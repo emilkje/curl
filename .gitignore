@@ -1,1 +1,3 @@
-lib/curl_cookie.txt
+src/Restful/Support/curl_cookie.txt
+/vendor/
+.DS_Store
